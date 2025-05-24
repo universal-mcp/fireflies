@@ -105,7 +105,7 @@ class FirefliesApp(GraphQLApplication):
             Exception: If the API request fails.
 
         Tags:
-            user, details, fireflies, query
+            user, details, fireflies, query, important
         """
         query_gql = gql("""
         query User($userId: String!) {
@@ -164,7 +164,7 @@ class FirefliesApp(GraphQLApplication):
             Exception: If the API request fails.
 
         Tags:
-            transcript, details, fireflies, query
+            transcript, details, fireflies, query, important
         """
         query_gql = gql("""
         query Transcript($transcriptId: String!) {
