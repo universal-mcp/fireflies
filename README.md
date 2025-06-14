@@ -1,6 +1,6 @@
 # Fireflies Universal MCP Server
 
-This repository contains an implementation of an Fireflies Universal MCP (Model Context Protocol) server. It provides a standardized interface for interacting with Fireflies's SEO and backlink analysis tools through a unified API.
+This repository contains an implementation of an Fireflies Universal MCP (Model Context Protocol) server. It provides a standardized interface for interacting with Fireflies's tools and services through a unified API.
 
 The server is built using the Universal MCP framework.
 
